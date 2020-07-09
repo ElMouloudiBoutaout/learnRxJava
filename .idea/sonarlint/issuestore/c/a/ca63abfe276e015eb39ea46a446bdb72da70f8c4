@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿Ãºİ
+N
+java:S1612",Replace this lambda with a method reference.(¥´àøÿÿÿÿ8õ÷Ûñ®.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥´àøÿÿÿÿ8›ÛÛñ®.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Şñ®.
+N
+java:S1612",Replace this lambda with a method reference.(¯˜Ôöşÿÿÿÿ8ËâÒñ®.
+a
+java:S1128"?Remove this unused import 'io.reactivex.rxjava3.core.Observer'.(ÄææÓıÿÿÿÿ8ËâÒñ®.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8…Şñ®.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯˜Ôöşÿÿÿÿ8ËâÒñ®.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(äÏ¼Æûÿÿÿÿ8ØÎÔñ®.

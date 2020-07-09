@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜¥à§8—èÅÄ®.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃŞôçşÿÿÿÿ8—èÅÄ®.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(€ÛØáşÿÿÿÿ8—èÅÄ®.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Ç¾Î­ûÿÿÿÿ8—£¼Ä®.
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8¯éÒÃ®.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Ç¾Î­ûÿÿÿÿ8—£¼Ä®.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(€ÛØáşÿÿÿÿ8—èÅÄ®.

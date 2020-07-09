@@ -1,0 +1,28 @@
+
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(€ÛØáşÿÿÿÿ8×Îë®.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÓŒ8×Îë®.
+K
+java:S1444P")Make this "public static val" field final(…º‰òüÿÿÿÿ8ÂÓÿÈ®.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦‘¢8×Îë®.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(é‡ïş8×Îë®.
+q
+java:S1104P"OMake val a static final constant or non-public and provide accessors if needed.(…º‰òüÿÿÿÿ8ÂÓÿÈ®.
+c
+java:S2259-"AA "NullPointerException" could be thrown; "arr" is nullable here.(óƒ™úÿÿÿÿ8İõŞÊ®.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(óƒ™úÿÿÿÿ8ÇãÚÊ®.
+]	java:S125"<This block of commented-out lines of code should be removed.(ë§ç¶ûÿÿÿÿ8×Îë®.
+C
+java:S1168H"&Return an empty array instead of null.(¥¹ï8ÛäĞÊ®.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(¿Ù8â“ßÊ®.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¼±ãşûÿÿÿÿ8×Îë®.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ëì·µøÿÿÿÿ8×Îë®.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úÕúˆşÿÿÿÿ8×Îë®.
+H
+java:S3252("+Use static access with "intro.A" for "val".(®õ¬8×Îë®.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÀöÇø8×Îë®.
+W
+java:S1118O":Add a private constructor to hide the implicit public one.(Ã™ÄÏ8ÂÓÿÈ®.
+v
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(×…›ˆ8î±ğÊ®.
+M
+java:S3252&"+Use static access with "intro.A" for "val".(¼±ãşûÿÿÿÿ8×Îë®.

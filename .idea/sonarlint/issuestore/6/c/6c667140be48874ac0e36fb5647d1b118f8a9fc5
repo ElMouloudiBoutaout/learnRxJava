@@ -1,0 +1,17 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ï‹‚…ùÿÿÿÿ8„¢³Æ®.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(£€‰şÿÿÿÿ8ìû‚Ç®.
+l
+java:S1128"JRemove this unused import 'io.reactivex.rxjava3.core.CompletableObserver'.( ¬µ©ûÿÿÿÿ8»şåÆ®.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(¶ñ±Úûÿÿÿÿ8¢ÙùÆ®.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(Ö»Ã­8›‰îÆ®.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(¤ï‹Ü8ìüüÆ®.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃŞôçşÿÿÿÿ8¹•€Æ®.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8’­ÊÆ®.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²Â€8á‡«Æ®.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ê­±8¹•€Æ®.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(Àª÷—8Ñ´ïÆ®.
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8á‡«Æ®.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÁ«¦üÿÿÿÿ8î¶ÀÆ®.

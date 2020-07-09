@@ -1,0 +1,10 @@
+
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(à™½«ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ
+_
+java:S1128"DRemove this unused import 'io.reactivex.rxjava3.functions.Supplier'.(ó§§üùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ§å×
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

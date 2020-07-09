@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôÐñóüÿÿÿÿ8ÉÒå…³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ô‰ºž8ø¶ç…³.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú“»Ýÿÿÿÿÿ
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(Ô‰ºž8£ý—‡³.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôÐñóüÿÿÿÿ8’ñç„³.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ôÐñóüÿÿÿÿ8£ý—‡³.
+m
+java:S1192"PDefine a constant instead of duplicating this literal "Consume Item : " 3 times.(Ô‰ºž8£ý—‡³.
+s
+java:S1192"QDefine a constant instead of duplicating this literal "produce item e :" 3 times.(ôÐñóüÿÿÿÿ8£ý—‡³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ô‰ºž8´ûë„³.
